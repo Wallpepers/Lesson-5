@@ -1,0 +1,12 @@
+div{
+    font-size: 30px;
+    color: aqua;
+}
+.div{
+    font-size: 50px;
+    color: blue;
+}
+#div{
+    font-size: 100px;
+    color: brown;
+}
